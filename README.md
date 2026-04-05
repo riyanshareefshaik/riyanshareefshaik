@@ -9,4 +9,5 @@
 - Basics of AI & Computer Vision
 - Git & GitHub
 
- Connect with me on LinkedIn
+ Connect with me on LinkedIn 
+ www.linkedin.com/in/riyan-shareef-9376b4329
